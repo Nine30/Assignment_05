@@ -1,0 +1,5 @@
+1,Luxurious,Gwen Stefani
+2,Fantasy,Mariah Carey
+3,Come On Over Baby,Christina Aguilera
+4,Nothing In This World,Paris Hilton
+5,Baby One More Time,Britney Spears
